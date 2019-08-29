@@ -120,6 +120,8 @@
     <ClCompile Include="src\StackAllocator.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Array.h" />
+    <ClInclude Include="src\List.h" />
     <ClInclude Include="src\PoolAllocator.h" />
     <ClInclude Include="src\StackAllocator.h" />
   </ItemGroup>
